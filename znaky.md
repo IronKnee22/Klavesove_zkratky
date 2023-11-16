@@ -34,7 +34,7 @@ Pokud se Vám nějaký znak nenapsal stačí použít `space` a znak se zobrazí
 `^` - stříška `pravý alt + š`.  
 `°` - stupeň `pravý alt + ř`.
 
-zpětný apostrof `pravý alt + ý`. (tady bohužel nemohu dát ukázku protože .md tento znak identifikuje jako kód více informací na [markdown](https://github.com/MarekDarsa/MarkDown))
+zpětný apostrof `pravý alt + ý`. (tady bohužel nemohu dát ukázku protože .md tento znak identifikuje jako kód více informací na [markdown](https://github.com/MarekDarsa/MarkDown#kód-v-textu))
 
 nepopsal jsem všechny ale pouze ty se kterými jsem se setkal při svém běžném programování na obrázku níže budete mít uplně všechny i včetně těch které běžně nevyužijete
 
