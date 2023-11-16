@@ -1,2 +1,17 @@
-# Kl-vesov-_zkratky
-Každý píše na české klávesnici, ale vždycky je nějaký znak který neví jak se píše na české klávesnici a proto musí přepínat do anglické a pak zase zpátky. Proto jsem vytvořil tento návod jak napsat běžně používané znaky na české klávesnici. Zároveň zde bude uvedeno několik klávesových zkratek které Vám umožní upustit od používání myši.
+# Klávesové zkratky
+
+V celém tutoriálu se používý česká qwertz klávesnice
+
+Tento tutoriál bude rozdělen do dvou částí klávesové zkratky pro psaní **znaků** a pro **pohyb po klávesnici**
+
+## Klávesové zkratky pro znaky
+
+[znaky](znaky.md)
+
+## Klávesové zkratky pro pohyb po klávesnici
+
+[pohyb](pohyb.md)
+
+rozvržení klávesnice se kterou pracujeme
+
+![klávesnice](imgs/klavesnice.png)
