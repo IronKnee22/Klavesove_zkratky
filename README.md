@@ -6,12 +6,12 @@ Tento tutoriál bude rozdělen do dvou částí klávesové zkratky pro psaní *
 
 ## Klávesové zkratky pro znaky
 
-[znaky](znaky.md)
+[Znaky](znaky.md)
 
 ## Klávesové zkratky pro pohyb po klávesnici
 
-[pohyb](pohyb.md)
+[Pohyb](pohyb.md)
 
-rozvržení klávesnice se kterou pracujeme
+## Rozvržení klávesnice se kterou pracujeme
 
 ![klávesnice](imgs/klavesnice.png)

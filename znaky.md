@@ -16,10 +16,10 @@ Máme tři různé druhy závorek `(), [], {}`. Všechny tři jsou vhodné k jin
 ## Speciální znaky pomocí pravého altu
 
 Máme několik druhů logických operátorů a každý služí k různým věcem v různých programovacíhch jazycích
+Pokud se Vám nějaký znak nenapsal stačí použít `space` a znak se zobrazí
 
 `#` - hashtag `pravý alt + x`.  
 `&` - logický and `pravý alt + c`.  
-`@` - zavináč `pravý alt + v`.  
 `<` - menší `pravý alt + ,`.  
 `>` - větší `pravý alt + .`.  
 `*` - hvězdička/násobení `pravý alt + -`. užitečné především proty co nedisponují numerickou klávesnicí.  
@@ -37,3 +37,5 @@ Máme několik druhů logických operátorů a každý služí k různým věcem
 zpětný apostrof `pravý alt + ý`. (tady bohužel nemohu dát ukázku protože .md tento znak identifikuje jako kód více informací na [markdown](https://github.com/MarekDarsa/MarkDown))
 
 nepopsal jsem všechny ale pouze ty se kterými jsem se setkal při svém běžném programování na obrázku níže budete mít uplně všechny i včetně těch které běžně nevyužijete
+
+![klávesnice se znaky](imgs/klavesnice_zkratky.png)
