@@ -20,7 +20,7 @@ Pokud se Vám nějaký znak nenapsal stačí použít `space` a znak se zobrazí
 
 `#` - hashtag `pravý alt + x`.  
 `&` - logický and `pravý alt + c`.  
-`@` - zavináč and `pravý alt + v`.  
+ 
 `<` - menší `pravý alt + ,`.  
 `>` - větší `pravý alt + .`.  
 `*` - hvězdička/násobení `pravý alt + -`. užitečné především proty co nedisponují numerickou klávesnicí.  
